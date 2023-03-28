@@ -1,0 +1,30 @@
+.storeback {
+  background-color: #e0e0e0;
+  margin: 50px;
+  padding: 60px;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  background-color: #00162e;
+  color: #d9b300;
+  font-weight: bold;
+  margin: 20px 50px -20px 50px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.submit {
+  background-color: #00162e;
+  color: #d9b300;
+  padding: 15px 20px;
+  border-radius: 10px;
+  border: hidden;
+  font-weight: bold;
+}
+
+.submit:hover {
+  background-color: #d9b300;
+  color: #00162e;
+}
